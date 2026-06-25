@@ -1,0 +1,14 @@
+{
+  "name": "Taiwanese Mahjong — 台 Hand Scorer",
+  "short_name": "台 Scorer",
+  "description": "Practice spotting scoring patterns in 16-tile Taiwanese Mahjong winning hands.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14110E",
+  "theme_color": "#0F5A45",
+  "icons": [
+    { "src": "./icon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ]
+}
